@@ -1,0 +1,9 @@
+﻿  day3.cpp
+D:\Git\AdventOfCode2021\day3\day3.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+D:\Git\AdventOfCode2021\day3\day3.cpp(66,21): warning C4018: '>=': signed/unsigned mismatch
+D:\Git\AdventOfCode2021\day3\day3.cpp(73,23): warning C4018: '<': signed/unsigned mismatch
+D:\Git\AdventOfCode2021\day3\day3.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+D:\Git\AdventOfCode2021\day3\day3.cpp(99,21): warning C4018: '<': signed/unsigned mismatch
+D:\Git\AdventOfCode2021\day3\day3.cpp(106,23): warning C4018: '<': signed/unsigned mismatch
+D:\Git\AdventOfCode2021\day3\day3.cpp(121,19): warning C4018: '<': signed/unsigned mismatch
+  day3.vcxproj -> D:\Git\AdventOfCode2021\day3\Debug\day3.exe

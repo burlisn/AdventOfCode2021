@@ -1,0 +1,2 @@
+D:\Git\AdventOfCode2021\day4\Debug\day4.exe
+D:\Git\AdventOfCode2021\day4\Debug\day4.pdb

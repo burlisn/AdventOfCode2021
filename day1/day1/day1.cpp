@@ -9,6 +9,7 @@ int main()
 {
     std::fstream file1("input.txt", std::fstream::in);
     std::cout << "Hello World!\n";
+    std::cout << "I just added this line\n";
 
     std::string input1;
     std::string input2;

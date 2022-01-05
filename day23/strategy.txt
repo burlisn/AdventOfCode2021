@@ -1,0 +1,5 @@
+How do I want to organize the grid?
+> One idea is to create a multidimensional grid (where each position is a spot in the grid)
+
+Possible solutions:
+> 

@@ -1,0 +1,20 @@
+x = (z % 26) + 13 //The 13 changes from line to line
+z = z / 1; //could be 1 or 26
+if(x !== digit){
+    z = z * 26 + digit + 15; //15 can change
+}
+
+#############################################################
+
+x = (z % 26) + 13 //13 can change, var1
+z = z / 1   //1 can change, var2
+if(x != digit){
+    z = (z * 26) + digit + 15 //15 can change, var3
+}
+
+##### Last digit #####
+x = (z % 26) + -11 
+z = z / 26
+if(x != digit){
+    z = (z * 26) + digit + 10
+}
